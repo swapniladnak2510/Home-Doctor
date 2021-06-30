@@ -1,2 +1,2 @@
 # Home-Doctor
-Disease prediction with symptoms by LightGBM and Random forest model
+## I have made this web app for Kratin Drive Assessment
